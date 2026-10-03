@@ -1,0 +1,9 @@
+1, Nguy Thi Tam Nhu, 2001/04/20, 123 Ngo May, Gia Lai, 0935123456, nhu.nguyen@gmail.com, 2.5, Java, FPT Software, None, None, None, None, None, None, None
+1, Nguyen Van Loi Sai Quá Nhiều, 199-12-32, Ha Noi, Ha Noi, 091, loivanhgmail.com, 150.75, Python, None, 2020/12/12, Xuat Sac, DH Bach Khoa, CNTT, 5, DH Bach Khoa, 2022/12/12
+2, Tran Thi Be Hu, 2002/15/40, Da Nang, Da Nang, abc123456, behu@yahoo@com, None, None, None, 2024-06-15, Trung Binh, DH Su Pham, Điện Tử, 7, DH Su Pham, 2025/06/15
+3, Le Van Intern Loi, 05/12/2003, HCM, HCM, 090, internloi.com, 2.5, Java, FSoft, None, None, None, An Toan Thong Tin, K8, DH FPT, 2026-05-20
+1, Experience Thieu Thong Tin, 1988/05/20, Hue, Hue, 0945666777, exp@gmail.com, None, .Net, TMA, None, None, None, None, None, None, None
+2, Fresher Nhap Sai Kieu Số, 2000/01/01, Can Tho, Can Tho, 0977888999, fresher@gmail.com, 2.0, None, None, 2023/07/15, Gioi, DH Can Tho, None, None, None, None
+3, Intern Đầy Đủ Nhưng Sai Định Dạng, 2004/02/30, Quy Nhon, Quy Nhon, 0345, intern.sai.mail@, None, None, None, None, None, None, CNTT, 12, DH Quy Nhon, 2026/13/45
+1, Khach Hang Bi An, None, None, None, None, anonymouse@gmail, -5.5, C++, Bosch, 2022/01/01, Kha, DH Cong Nghe, None, None, None, None
+2, Hoang Van Thuong, 2000/03/14, Hue, Hue, 0911222333, thuonghv@gmail.com, None, None, None, 2023/06/15, Xuat Sac, DH Khoa Hoc Hue, None, None, None, None
